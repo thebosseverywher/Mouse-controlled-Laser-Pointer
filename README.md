@@ -34,4 +34,4 @@ To run this project, you will need the following materials:
 
 ## License
 
-This project is licensed under the [GPU General Public License v3.0](LICENSE).
+This project is licensed under the [GPL General Public License v3.0](LICENSE).
