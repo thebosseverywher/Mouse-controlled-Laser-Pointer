@@ -1,7 +1,5 @@
 # Mouse-controlled-Laser-Pointer
 
-# Laser Turret Control System
-
 This repository contains code for a laser turret control system implemented using Python and Arduino. The system allows users to control the movement of a laser turret using a graphical user interface (GUI) on their laptop. The GUI captures the mouse pointer coordinates and converts them into angles for servo motors, which in turn control the movement of the laser turret.
 
 ## Features
